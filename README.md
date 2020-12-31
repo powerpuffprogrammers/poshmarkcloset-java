@@ -1,2 +1,2 @@
 # poshmarkcloset-java
-Java app for Poshmark sharing
+For fun Java app for to share my Poshmark closet sharing
